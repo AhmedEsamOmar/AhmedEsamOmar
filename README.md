@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Ahmed Esam Omar
-- 👀 I’m interested in computer science
+- 👋 Hi, I’m  Ahmed 
+- 👀 I’m interested in learning computer science
 - 🌱 I’m an intesive care physicion 
 
 
